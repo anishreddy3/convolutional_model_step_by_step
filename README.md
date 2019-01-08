@@ -12,4 +12,4 @@ Implemented the following building blocks of a convolutional neural-network.
 #     - Pooling forward
 #     - Create mask 
 #     - Distribute value
-#     - Pooling backward (optional)
+
